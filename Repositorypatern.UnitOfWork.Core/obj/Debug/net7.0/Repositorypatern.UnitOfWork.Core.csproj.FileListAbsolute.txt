@@ -1,0 +1,12 @@
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\bin\Debug\net7.0\Repositorypatern.UnitOfWork.Core.deps.json
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\bin\Debug\net7.0\Repositorypatern.UnitOfWork.Core.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\bin\Debug\net7.0\Repositorypatern.UnitOfWork.Core.pdb
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\refint\Repositorypatern.UnitOfWork.Core.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\Repositorypatern.UnitOfWork.Core.pdb
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.Core\obj\Debug\net7.0\ref\Repositorypatern.UnitOfWork.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.EF.deps.json
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.EF.runtimeconfig.json
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.EF.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.EF.pdb
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\refint\Repositorypatern.UnitOfWork.EF.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.pdb
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\ref\Repositorypatern.UnitOfWork.EF.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.Core.dll
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\bin\Debug\net7.0\Repositorypatern.UnitOfWork.Core.pdb
+C:\Users\Ahmed\Desktop\Api\Api\Repositorypatern.UnitOfWork.EF\obj\Debug\net7.0\Repositorypatern.UnitOfWork.EF.csproj.CopyComplete
